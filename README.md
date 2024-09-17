@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angoljunior
-- 👀 I’m interested in Graphic design ,back nd development with python and eager to further my goal to know more
-- 🌱 I’m currently learning html and csss
+- 👀 I’m interested in Graphic design || Back End Development with python and eager to further my goal to know more
+- 🌱 I’m currently mastering Django 
 - 💞️ I’m looking to collaborate on building exciting projects in order to boost my skills
 - 📫 One can reach out on me  instagram:_.angol_jnr
 
